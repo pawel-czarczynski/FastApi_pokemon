@@ -1,0 +1,802 @@
+id,classfication,,name,percentage_male,type1,type2,generation,is_legendary
+1,Seed Pokemon,,Bulbasaur,88.1,grass,poison,1,0
+2,Seed Pokemon,,Ivysaur,88.1,grass,poison,1,0
+3,Seed Pokemon,,Venusaur,88.1,grass,poison,1,0
+4,Lizard Pokemon,,Charmander,88.1,fire,,1,0
+5,Flame Pokemon,,Charmeleon,88.1,fire,,1,0
+6,Flame Pokemon,,Charizard,88.1,fire,flying,1,0
+7,Tiny Turtle Pokemon,,Squirtle,88.1,water,,1,0
+8,Turtle Pokemon,,Wartortle,88.1,water,,1,0
+9,Shellfish Pokemon,,Blastoise,88.1,water,,1,0
+10,Worm Pokemon,,Caterpie,50,bug,,1,0
+11,Cocoon Pokemon,,Metapod,50,bug,,1,0
+12,Butterfly Pokemon,,Butterfree,50,bug,flying,1,0
+13,Hairy Pokemon,,Weedle,50,bug,poison,1,0
+14,Cocoon Pokemon,,Kakuna,50,bug,poison,1,0
+15,Poison Bee Pokemon,,Beedrill,50,bug,poison,1,0
+16,Tiny Bird Pokemon,,Pidgey,50,normal,flying,1,0
+17,Bird Pokemon,,Pidgeotto,50,normal,flying,1,0
+18,Bird Pokemon,,Pidgeot,50,normal,flying,1,0
+19,Mouse Pokemon,,Rattata,50,normal,dark,1,0
+20,Mouse Pokemon,,Raticate,50,normal,dark,1,0
+21,Tiny Bird Pokemon,,Spearow,50,normal,flying,1,0
+22,Beak Pokemon,,Fearow,50,normal,flying,1,0
+23,Snake Pokemon,,Ekans,50,poison,,1,0
+24,Cobra Pokemon,,Arbok,50,poison,,1,0
+25,Mouse Pokemon,,Pikachu,50,electric,,1,0
+26,Mouse Pokemon,,Raichu,50,electric,electric,1,0
+27,Mouse Pokemon,,Sandshrew,50,ground,ice,1,0
+28,Mouse Pokemon,,Sandslash,50,ground,ice,1,0
+29,Poison Pin Pokemon,,Nidoranâ™€,0,poison,,1,0
+30,Poison Pin Pokemon,,Nidorina,0,poison,,1,0
+31,Drill Pokemon,,Nidoqueen,0,poison,ground,1,0
+32,Poison Pin Pokemon,,Nidoranâ™‚,100,poison,,1,0
+33,Poison Pin Pokemon,,Nidorino,100,poison,,1,0
+34,Drill Pokemon,,Nidoking,100,poison,ground,1,0
+35,Fairy Pokemon,,Clefairy,24.6,fairy,,1,0
+36,Fairy Pokemon,,Clefable,24.6,fairy,,1,0
+37,Fox Pokemon,,Vulpix,24.6,fire,ice,1,0
+38,Fox Pokemon,,Ninetales,24.6,fire,ice,1,0
+39,Balloon Pokemon,,Jigglypuff,24.6,normal,fairy,1,0
+40,Balloon Pokemon,,Wigglytuff,24.6,normal,fairy,1,0
+41,Bat Pokemon,,Zubat,50,poison,flying,1,0
+42,Bat Pokemon,,Golbat,50,poison,flying,1,0
+43,Weed Pokemon,,Oddish,50,grass,poison,1,0
+44,Weed Pokemon,,Gloom,50,grass,poison,1,0
+45,Flower Pokemon,,Vileplume,50,grass,poison,1,0
+46,Mushroom Pokemon,,Paras,50,bug,grass,1,0
+47,Mushroom Pokemon,,Parasect,50,bug,grass,1,0
+48,Insect Pokemon,,Venonat,50,bug,poison,1,0
+49,Poison Moth Pokemon,,Venomoth,50,bug,poison,1,0
+50,Mole Pokemon,,Diglett,50,ground,ground,1,0
+51,Mole Pokemon,,Dugtrio,50,ground,ground,1,0
+52,Scratch Cat Pokemon,,Meowth,50,normal,dark,1,0
+53,Classy Cat Pokemon,,Persian,50,normal,dark,1,0
+54,Duck Pokemon,,Psyduck,50,water,,1,0
+55,Duck Pokemon,,Golduck,50,water,,1,0
+56,Pig Monkey Pokemon,,Mankey,50,fighting,,1,0
+57,Pig Monkey Pokemon,,Primeape,50,fighting,,1,0
+58,Puppy Pokemon,,Growlithe,75.4,fire,,1,0
+59,Legendary Pokemon,,Arcanine,75.4,fire,,1,0
+60,Tadpole Pokemon,,Poliwag,50,water,,1,0
+61,Tadpole Pokemon,,Poliwhirl,50,water,,1,0
+62,Tadpole Pokemon,,Poliwrath,50,water,fighting,1,0
+63,Psi Pokemon,,Abra,75.4,psychic,,1,0
+64,Psi Pokemon,,Kadabra,75.4,psychic,,1,0
+65,Psi Pokemon,,Alakazam,75.4,psychic,,1,0
+66,Superpower Pokemon,,Machop,75.4,fighting,,1,0
+67,Superpower Pokemon,,Machoke,75.4,fighting,,1,0
+68,Superpower Pokemon,,Machamp,75.4,fighting,,1,0
+69,Flower Pokemon,,Bellsprout,50,grass,poison,1,0
+70,Flycatcher Pokemon,,Weepinbell,50,grass,poison,1,0
+71,Flycatcher Pokemon,,Victreebel,50,grass,poison,1,0
+72,Jellyfish Pokemon,,Tentacool,50,water,poison,1,0
+73,Jellyfish Pokemon,,Tentacruel,50,water,poison,1,0
+74,Rock Pokemon,,Geodude,50,rock,ground,1,0
+75,Rock Pokemon,,Graveler,50,rock,ground,1,0
+76,Megaton Pokemon,,Golem,50,rock,ground,1,0
+77,Fire Horse Pokemon,,Ponyta,50,fire,,1,0
+78,Fire Horse Pokemon,,Rapidash,50,fire,,1,0
+79,Dopey Pokemon,,Slowpoke,50,water,psychic,1,0
+80,Hermit Crab Pokemon,,Slowbro,50,water,psychic,1,0
+81,Magnet Pokemon,,Magnemite,,electric,steel,1,0
+82,Magnet Pokemon,,Magneton,,electric,steel,1,0
+83,Wild Duck Pokemon,,Farfetch'd,50,normal,flying,1,0
+84,Twin Bird Pokemon,,Doduo,50,normal,flying,1,0
+85,Triple Bird Pokemon,,Dodrio,50,normal,flying,1,0
+86,Sea Lion Pokemon,,Seel,50,water,,1,0
+87,Sea Lion Pokemon,,Dewgong,50,water,ice,1,0
+88,Sludge Pokemon,,Grimer,50,poison,poison,1,0
+89,Sludge Pokemon,,Muk,50,poison,poison,1,0
+90,Bivalve Pokemon,,Shellder,50,water,,1,0
+91,Bivalve Pokemon,,Cloyster,50,water,ice,1,0
+92,Gas Pokemon,,Gastly,50,ghost,poison,1,0
+93,Gas Pokemon,,Haunter,50,ghost,poison,1,0
+94,Shadow Pokemon,,Gengar,50,ghost,poison,1,0
+95,Rock Snake Pokemon,,Onix,50,rock,ground,1,0
+96,Hypnosis Pokemon,,Drowzee,50,psychic,,1,0
+97,Hypnosis Pokemon,,Hypno,50,psychic,,1,0
+98,River Crab Pokemon,,Krabby,50,water,,1,0
+99,Pincer Pokemon,,Kingler,50,water,,1,0
+100,Ball Pokemon,,Voltorb,,electric,,1,0
+101,Ball Pokemon,,Electrode,,electric,,1,0
+102,Egg Pokemon,,Exeggcute,50,grass,psychic,1,0
+103,Coconut Pokemon,,Exeggutor,50,grass,psychic,1,0
+104,Lonely Pokemon,,Cubone,50,ground,,1,0
+105,Bone Keeper Pokemon,,Marowak,50,ground,fire,1,0
+106,Kicking Pokemon,,Hitmonlee,100,fighting,,1,0
+107,Punching Pokemon,,Hitmonchan,100,fighting,,1,0
+108,Licking Pokemon,,Lickitung,50,normal,,1,0
+109,Poison Gas Pokemon,,Koffing,50,poison,,1,0
+110,Poison Gas Pokemon,,Weezing,50,poison,,1,0
+111,Spikes Pokemon,,Rhyhorn,50,ground,rock,1,0
+112,Drill Pokemon,,Rhydon,50,ground,rock,1,0
+113,Egg Pokemon,,Chansey,0,normal,,1,0
+114,Vine Pokemon,,Tangela,50,grass,,1,0
+115,Parent Pokemon,,Kangaskhan,0,normal,,1,0
+116,Dragon Pokemon,,Horsea,50,water,,1,0
+117,Dragon Pokemon,,Seadra,50,water,,1,0
+118,Goldfish Pokemon,,Goldeen,50,water,,1,0
+119,Goldfish Pokemon,,Seaking,50,water,,1,0
+120,Starshape Pokemon,,Staryu,,water,,1,0
+121,Mysterious Pokemon,,Starmie,,water,psychic,1,0
+122,Barrier Pokemon,,Mr. Mime,50,psychic,fairy,1,0
+123,Mantis Pokemon,,Scyther,50,bug,flying,1,0
+124,Humanshape Pokemon,,Jynx,0,ice,psychic,1,0
+125,Electric Pokemon,,Electabuzz,75.4,electric,,1,0
+126,Spitfire Pokemon,,Magmar,75.4,fire,,1,0
+127,Stagbeetle Pokemon,,Pinsir,50,bug,,1,0
+128,Wild Bull Pokemon,,Tauros,100,normal,,1,0
+129,Fish Pokemon,,Magikarp,50,water,,1,0
+130,Atrocious Pokemon,,Gyarados,50,water,flying,1,0
+131,Transport Pokemon,,Lapras,50,water,ice,1,0
+132,Transform Pokemon,,Ditto,,normal,,1,0
+133,Evolution Pokemon,,Eevee,88.1,normal,,1,0
+134,Bubble Jet Pokemon,,Vaporeon,88.1,water,,1,0
+135,Lightning Pokemon,,Jolteon,88.1,electric,,1,0
+136,Flame Pokemon,,Flareon,88.1,fire,,1,0
+137,Virtual Pokemon,,Porygon,,normal,,1,0
+138,Spiral Pokemon,,Omanyte,88.1,rock,water,1,0
+139,Spiral Pokemon,,Omastar,88.1,rock,water,1,0
+140,Shellfish Pokemon,,Kabuto,88.1,rock,water,1,0
+141,Shellfish Pokemon,,Kabutops,88.1,rock,water,1,0
+142,Fossil Pokemon,,Aerodactyl,88.1,rock,flying,1,0
+143,Sleeping Pokemon,,Snorlax,88.1,normal,,1,0
+144,Freeze Pokemon,,Articuno,,ice,flying,1,1
+145,Electric Pokemon,,Zapdos,,electric,flying,1,1
+146,Flame Pokemon,,Moltres,,fire,flying,1,1
+147,Dragon Pokemon,,Dratini,50,dragon,,1,0
+148,Dragon Pokemon,,Dragonair,50,dragon,,1,0
+149,Dragon Pokemon,,Dragonite,50,dragon,flying,1,0
+150,Genetic Pokemon,,Mewtwo,,psychic,,1,1
+151,New Species Pokemon,,Mew,,psychic,,1,1
+152,Leaf Pokemon,,Chikorita,88.1,grass,,2,0
+153,Leaf Pokemon,,Bayleef,88.1,grass,,2,0
+154,Herb Pokemon,,Meganium,88.1,grass,,2,0
+155,Fire Mouse Pokemon,,Cyndaquil,88.1,fire,,2,0
+156,Volcano Pokemon,,Quilava,88.1,fire,,2,0
+157,Volcano Pokemon,,Typhlosion,88.1,fire,,2,0
+158,Big Jaw Pokemon,,Totodile,88.1,water,,2,0
+159,Big Jaw Pokemon,,Croconaw,88.1,water,,2,0
+160,Big Jaw Pokemon,,Feraligatr,88.1,water,,2,0
+161,Scout Pokemon,,Sentret,50,normal,,2,0
+162,Long Body Pokemon,,Furret,50,normal,,2,0
+163,Owl Pokemon,,Hoothoot,50,normal,flying,2,0
+164,Owl Pokemon,,Noctowl,50,normal,flying,2,0
+165,Five Star Pokemon,,Ledyba,50,bug,flying,2,0
+166,Five Star Pokemon,,Ledian,50,bug,flying,2,0
+167,String Spit Pokemon,,Spinarak,50,bug,poison,2,0
+168,Long Leg Pokemon,,Ariados,50,bug,poison,2,0
+169,Bat Pokemon,,Crobat,50,poison,flying,2,0
+170,Angler Pokemon,,Chinchou,50,water,electric,2,0
+171,Light Pokemon,,Lanturn,50,water,electric,2,0
+172,Tiny Mouse Pokemon,,Pichu,50,electric,,2,0
+173,Star Shape Pokemon,,Cleffa,24.6,fairy,,2,0
+174,Balloon Pokemon,,Igglybuff,24.6,normal,fairy,2,0
+175,Spike Ball Pokemon,,Togepi,88.1,fairy,,2,0
+176,Happiness Pokemon,,Togetic,88.1,fairy,flying,2,0
+177,Little Bird Pokemon,,Natu,50,psychic,flying,2,0
+178,Mystic Pokemon,,Xatu,50,psychic,flying,2,0
+179,Wool Pokemon,,Mareep,50,electric,,2,0
+180,Wool Pokemon,,Flaaffy,50,electric,,2,0
+181,Light Pokemon,,Ampharos,50,electric,,2,0
+182,Flower Pokemon,,Bellossom,50,grass,,2,0
+183,Aquamouse Pokemon,,Marill,50,water,fairy,2,0
+184,Aquarabbit Pokemon,,Azumarill,50,water,fairy,2,0
+185,Imitation Pokemon,,Sudowoodo,50,rock,,2,0
+186,Frog Pokemon,,Politoed,50,water,,2,0
+187,Cottonweed Pokemon,,Hoppip,50,grass,flying,2,0
+188,Cottonweed Pokemon,,Skiploom,50,grass,flying,2,0
+189,Cottonweed Pokemon,,Jumpluff,50,grass,flying,2,0
+190,Long Tail Pokemon,,Aipom,50,normal,,2,0
+191,Seed Pokemon,,Sunkern,50,grass,,2,0
+192,Sun Pokemon,,Sunflora,50,grass,,2,0
+193,Clear Wing Pokemon,,Yanma,50,bug,flying,2,0
+194,Water Fish Pokemon,,Wooper,50,water,ground,2,0
+195,Water Fish Pokemon,,Quagsire,50,water,ground,2,0
+196,Sun Pokemon,,Espeon,88.1,psychic,,2,0
+197,Moonlight Pokemon,,Umbreon,88.1,dark,,2,0
+198,Darkness Pokemon,,Murkrow,50,dark,flying,2,0
+199,Royal Pokemon,,Slowking,50,water,psychic,2,0
+200,Screech Pokemon,,Misdreavus,50,ghost,,2,0
+201,Symbol Pokemon,,Unown,,psychic,,2,0
+202,Patient Pokemon,,Wobbuffet,50,psychic,,2,0
+203,Long Neck Pokemon,,Girafarig,50,normal,psychic,2,0
+204,Bagworm Pokemon,,Pineco,50,bug,,2,0
+205,Bagworm Pokemon,,Forretress,50,bug,steel,2,0
+206,Land Snake Pokemon,,Dunsparce,50,normal,,2,0
+207,Flyscorpion Pokemon,,Gligar,50,ground,flying,2,0
+208,Iron Snake Pokemon,,Steelix,50,steel,ground,2,0
+209,Fairy Pokemon,,Snubbull,24.6,fairy,,2,0
+210,Fairy Pokemon,,Granbull,24.6,fairy,,2,0
+211,Balloon Pokemon,,Qwilfish,50,water,poison,2,0
+212,Pincer Pokemon,,Scizor,50,bug,steel,2,0
+213,Mold Pokemon,,Shuckle,50,bug,rock,2,0
+214,Singlehorn Pokemon,,Heracross,50,bug,fighting,2,0
+215,Sharp Claw Pokemon,,Sneasel,50,dark,ice,2,0
+216,Little Bear Pokemon,,Teddiursa,50,normal,,2,0
+217,Hibernator Pokemon,,Ursaring,50,normal,,2,0
+218,Lava Pokemon,,Slugma,50,fire,,2,0
+219,Lava Pokemon,,Magcargo,50,fire,rock,2,0
+220,Pig Pokemon,,Swinub,50,ice,ground,2,0
+221,Swine Pokemon,,Piloswine,50,ice,ground,2,0
+222,Coral Pokemon,,Corsola,24.6,water,rock,2,0
+223,Jet Pokemon,,Remoraid,50,water,,2,0
+224,Jet Pokemon,,Octillery,50,water,,2,0
+225,Delivery Pokemon,,Delibird,50,ice,flying,2,0
+226,Kite Pokemon,,Mantine,50,water,flying,2,0
+227,Armor Bird Pokemon,,Skarmory,50,steel,flying,2,0
+228,Dark Pokemon,,Houndour,50,dark,fire,2,0
+229,Dark Pokemon,,Houndoom,50,dark,fire,2,0
+230,Dragon Pokemon,,Kingdra,50,water,dragon,2,0
+231,Long Nose Pokemon,,Phanpy,50,ground,,2,0
+232,Armor Pokemon,,Donphan,50,ground,,2,0
+233,Virtual Pokemon,,Porygon2,,normal,,2,0
+234,Big Horn Pokemon,,Stantler,50,normal,,2,0
+235,Painter Pokemon,,Smeargle,50,normal,,2,0
+236,Scuffle Pokemon,,Tyrogue,100,fighting,,2,0
+237,Handstand Pokemon,,Hitmontop,100,fighting,,2,0
+238,Kiss Pokemon,,Smoochum,0,ice,psychic,2,0
+239,Electric Pokemon,,Elekid,75.4,electric,,2,0
+240,Live Coal Pokemon,,Magby,75.4,fire,,2,0
+241,Milk Cow Pokemon,,Miltank,0,normal,,2,0
+242,Happiness Pokemon,,Blissey,0,normal,,2,0
+243,Thunder Pokemon,,Raikou,,electric,,2,1
+244,Volcano Pokemon,,Entei,,fire,,2,1
+245,Aurora Pokemon,,Suicune,,water,,2,1
+246,Rock Skin Pokemon,,Larvitar,50,rock,ground,2,0
+247,Hard Shell Pokemon,,Pupitar,50,rock,ground,2,0
+248,Armor Pokemon,,Tyranitar,50,rock,dark,2,0
+249,Diving Pokemon,,Lugia,,psychic,flying,2,1
+250,Rainbow Pokemon,,Ho-Oh,,fire,flying,2,1
+251,Time Travel Pokemon,,Celebi,,psychic,grass,2,1
+252,Wood Gecko Pokemon,,Treecko,88.1,grass,,3,0
+253,Wood Gecko Pokemon,,Grovyle,88.1,grass,,3,0
+254,Forest Pokemon,,Sceptile,88.1,grass,,3,0
+255,Chick Pokemon,,Torchic,88.1,fire,,3,0
+256,Young Fowl Pokemon,,Combusken,88.1,fire,fighting,3,0
+257,Blaze Pokemon,,Blaziken,88.1,fire,fighting,3,0
+258,Mud Fish Pokemon,,Mudkip,88.1,water,,3,0
+259,Mud Fish Pokemon,,Marshtomp,88.1,water,ground,3,0
+260,Mud Fish Pokemon,,Swampert,88.1,water,ground,3,0
+261,Bite Pokemon,,Poochyena,50,dark,,3,0
+262,Bite Pokemon,,Mightyena,50,dark,,3,0
+263,Tiny Racoon Pokemon,,Zigzagoon,50,normal,,3,0
+264,Rush Pokemon,,Linoone,50,normal,,3,0
+265,Worm Pokemon,,Wurmple,50,bug,,3,0
+266,Cocoon Pokemon,,Silcoon,50,bug,,3,0
+267,Butterfly Pokemon,,Beautifly,50,bug,flying,3,0
+268,Cocoon Pokemon,,Cascoon,50,bug,,3,0
+269,Poison Moth Pokemon,,Dustox,50,bug,poison,3,0
+270,Water Weed Pokemon,,Lotad,50,water,grass,3,0
+271,Jolly Pokemon,,Lombre,50,water,grass,3,0
+272,Carefree Pokemon,,Ludicolo,50,water,grass,3,0
+273,Acorn Pokemon,,Seedot,50,grass,,3,0
+274,Wily Pokemon,,Nuzleaf,50,grass,dark,3,0
+275,Wickid Pokemon,,Shiftry,50,grass,dark,3,0
+276,TinySwallow Pokemon,,Taillow,50,normal,flying,3,0
+277,Swallow Pokemon,,Swellow,50,normal,flying,3,0
+278,Seagull Pokemon,,Wingull,50,water,flying,3,0
+279,Water Bird Pokemon,,Pelipper,50,water,flying,3,0
+280,Feeling Pokemon,,Ralts,50,psychic,fairy,3,0
+281,Emotion Pokemon,,Kirlia,50,psychic,fairy,3,0
+282,Embrace Pokemon,,Gardevoir,50,psychic,fairy,3,0
+283,Pond Skater Pokemon,,Surskit,50,bug,water,3,0
+284,Eyeball Pokemon,,Masquerain,50,bug,flying,3,0
+285,Mushroom Pokemon,,Shroomish,50,grass,,3,0
+286,Mushroom Pokemon,,Breloom,50,grass,fighting,3,0
+287,Slacker Pokemon,,Slakoth,50,normal,,3,0
+288,Wild Monkey Pokemon,,Vigoroth,50,normal,,3,0
+289,Lazy Pokemon,,Slaking,50,normal,,3,0
+290,Trainee Pokemon,,Nincada,50,bug,ground,3,0
+291,Ninja Pokemon,,Ninjask,50,bug,flying,3,0
+292,Shed Pokemon,,Shedinja,,bug,ghost,3,0
+293,Whisper Pokemon,,Whismur,50,normal,,3,0
+294,Big Voice Pokemon,,Loudred,50,normal,,3,0
+295,Loud Noise Pokemon,,Exploud,50,normal,,3,0
+296,Guts Pokemon,,Makuhita,75.4,fighting,,3,0
+297,Arm Thrust Pokemon,,Hariyama,75.4,fighting,,3,0
+298,Polka Dot Pokemon,,Azurill,24.6,normal,fairy,3,0
+299,Compass Pokemon,,Nosepass,50,rock,,3,0
+300,Kitten Pokemon,,Skitty,24.6,normal,,3,0
+301,Prim Pokemon,,Delcatty,24.6,normal,,3,0
+302,Darkness Pokemon,,Sableye,50,dark,ghost,3,0
+303,Deceiver Pokemon,,Mawile,50,steel,fairy,3,0
+304,Iron Armor Pokemon,,Aron,50,steel,rock,3,0
+305,Iron Armor Pokemon,,Lairon,50,steel,rock,3,0
+306,Iron Armor Pokemon,,Aggron,50,steel,rock,3,0
+307,Meditate Pokemon,,Meditite,50,fighting,psychic,3,0
+308,Meditate Pokemon,,Medicham,50,fighting,psychic,3,0
+309,Lightning Pokemon,,Electrike,50,electric,,3,0
+310,Discharge Pokemon,,Manectric,50,electric,,3,0
+311,Cheering Pokemon,,Plusle,50,electric,,3,0
+312,Cheering Pokemon,,Minun,50,electric,,3,0
+313,Firefly Pokemon,,Volbeat,100,bug,,3,0
+314,Firefly Pokemon,,Illumise,0,bug,,3,0
+315,Thorn Pokemon,,Roselia,50,grass,poison,3,0
+316,Stomach Pokemon,,Gulpin,50,poison,,3,0
+317,Poison Bag Pokemon,,Swalot,50,poison,,3,0
+318,Savage Pokemon,,Carvanha,50,water,dark,3,0
+319,Brutal Pokemon,,Sharpedo,50,water,dark,3,0
+320,Ball Whale Pokemon,,Wailmer,50,water,,3,0
+321,Float Whale Pokemon,,Wailord,50,water,,3,0
+322,Numb Pokemon,,Numel,50,fire,ground,3,0
+323,Eruption Pokemon,,Camerupt,50,fire,ground,3,0
+324,Coal Pokemon,,Torkoal,50,fire,,3,0
+325,Bounce Pokemon,,Spoink,50,psychic,,3,0
+326,Manipulate Pokemon,,Grumpig,50,psychic,,3,0
+327,Spot Panda Pokemon,,Spinda,50,normal,,3,0
+328,Ant Pit Pokemon,,Trapinch,50,ground,,3,0
+329,Vibration Pokemon,,Vibrava,50,ground,dragon,3,0
+330,Mystic Pokemon,,Flygon,50,ground,dragon,3,0
+331,Cactus Pokemon,,Cacnea,50,grass,,3,0
+332,Scarecrow Pokemon,,Cacturne,50,grass,dark,3,0
+333,Cotton Bird Pokemon,,Swablu,50,normal,flying,3,0
+334,Humming Pokemon,,Altaria,50,dragon,flying,3,0
+335,Cat Ferret Pokemon,,Zangoose,50,normal,,3,0
+336,Fang Snake Pokemon,,Seviper,50,poison,,3,0
+337,Meteorite Pokemon,,Lunatone,,rock,psychic,3,0
+338,Meteorite Pokemon,,Solrock,,rock,psychic,3,0
+339,Whiskers Pokemon,,Barboach,50,water,ground,3,0
+340,Whiskers Pokemon,,Whiscash,50,water,ground,3,0
+341,Ruffian Pokemon,,Corphish,50,water,,3,0
+342,Rogue Pokemon,,Crawdaunt,50,water,dark,3,0
+343,Clay Doll Pokemon,,Baltoy,,ground,psychic,3,0
+344,Clay Doll Pokemon,,Claydol,,ground,psychic,3,0
+345,Sea Lily Pokemon,,Lileep,88.1,rock,grass,3,0
+346,Barnacle Pokemon,,Cradily,88.1,rock,grass,3,0
+347,Old Shrimp Pokemon,,Anorith,88.1,rock,bug,3,0
+348,Plate Pokemon,,Armaldo,88.1,rock,bug,3,0
+349,Fish Pokemon,,Feebas,50,water,,3,0
+350,Tender Pokemon,,Milotic,50,water,,3,0
+351,Weather Pokemon,,Castform,50,normal,,3,0
+352,Color Swap Pokemon,,Kecleon,50,normal,,3,0
+353,Puppet Pokemon,,Shuppet,50,ghost,,3,0
+354,Marionette Pokemon,,Banette,50,ghost,,3,0
+355,Requiem Pokemon,,Duskull,50,ghost,,3,0
+356,Beckon Pokemon,,Dusclops,50,ghost,,3,0
+357,Fruit Pokemon,,Tropius,50,grass,flying,3,0
+358,Wind Chime Pokemon,,Chimecho,50,psychic,,3,0
+359,Disaster Pokemon,,Absol,50,dark,,3,0
+360,Bright Pokemon,,Wynaut,50,psychic,,3,0
+361,Snow Hat Pokemon,,Snorunt,50,ice,,3,0
+362,Face Pokemon,,Glalie,50,ice,,3,0
+363,Clap Pokemon,,Spheal,50,ice,water,3,0
+364,Ball Roll Pokemon,,Sealeo,50,ice,water,3,0
+365,Ice Break Pokemon,,Walrein,50,ice,water,3,0
+366,Bivalve Pokemon,,Clamperl,50,water,,3,0
+367,Deep Sea Pokemon,,Huntail,50,water,,3,0
+368,South Sea Pokemon,,Gorebyss,50,water,,3,0
+369,Longevity Pokemon,,Relicanth,88.1,water,rock,3,0
+370,Rendezvous Pokemon,,Luvdisc,24.6,water,,3,0
+371,Rock Head Pokemon,,Bagon,50,dragon,,3,0
+372,Endurance Pokemon,,Shelgon,50,dragon,,3,0
+373,Dragon Pokemon,,Salamence,50,dragon,flying,3,0
+374,Iron Ball Pokemon,,Beldum,,steel,psychic,3,0
+375,Iron Claw Pokemon,,Metang,,steel,psychic,3,0
+376,Iron Leg Pokemon,,Metagross,,steel,psychic,3,0
+377,Rock Peak Pokemon,,Regirock,,rock,,3,1
+378,Iceberg Pokemon,,Regice,,ice,,3,1
+379,Iron Pokemon,,Registeel,,steel,,3,1
+380,Eon Pokemon,,Latias,0,dragon,psychic,3,1
+381,Eon Pokemon,,Latios,100,dragon,psychic,3,1
+382,Sea Basin Pokemon,,Kyogre,,water,,3,1
+383,Continent Pokemon,,Groudon,,ground,,3,1
+384,Sky High Pokemon,,Rayquaza,,dragon,flying,3,1
+385,Wish Pokemon,,Jirachi,,steel,psychic,3,1
+386,DNA Pokemon,,Deoxys,,psychic,,3,1
+387,Tiny Leaf Pokemon,,Turtwig,88.1,grass,,4,0
+388,Grove Pokemon,,Grotle,88.1,grass,,4,0
+389,Continent Pokemon,,Torterra,88.1,grass,ground,4,0
+390,Chimp Pokemon,,Chimchar,88.1,fire,,4,0
+391,Playful Pokemon,,Monferno,88.1,fire,fighting,4,0
+392,Flame Pokemon,,Infernape,88.1,fire,fighting,4,0
+393,Penguin Pokemon,,Piplup,88.1,water,,4,0
+394,Penguin Pokemon,,Prinplup,88.1,water,,4,0
+395,Emperor Pokemon,,Empoleon,88.1,water,steel,4,0
+396,Starling Pokemon,,Starly,50,normal,flying,4,0
+397,Starling Pokemon,,Staravia,50,normal,flying,4,0
+398,Predator Pokemon,,Staraptor,50,normal,flying,4,0
+399,Plump Mouse Pokemon,,Bidoof,50,normal,,4,0
+400,Beaver Pokemon,,Bibarel,50,normal,water,4,0
+401,Cricket Pokemon,,Kricketot,50,bug,,4,0
+402,Cricket Pokemon,,Kricketune,50,bug,,4,0
+403,Flash Pokemon,,Shinx,50,electric,,4,0
+404,Spark Pokemon,,Luxio,50,electric,,4,0
+405,Gleam Eyes Pokemon,,Luxray,50,electric,,4,0
+406,Bud Pokemon,,Budew,50,grass,poison,4,0
+407,Bouquet Pokemon,,Roserade,50,grass,poison,4,0
+408,Head Butt Pokemon,,Cranidos,88.1,rock,,4,0
+409,Head Butt Pokemon,,Rampardos,88.1,rock,,4,0
+410,Shield Pokemon,,Shieldon,88.1,rock,steel,4,0
+411,Shield Pokemon,,Bastiodon,88.1,rock,steel,4,0
+412,Bagworm Pokemon,,Burmy,50,bug,,4,0
+413,Bagworm Pokemon,,Wormadam,0,bug,grass,4,0
+414,Moth Pokemon,,Mothim,100,bug,flying,4,0
+415,Tiny Bee Pokemon,,Combee,88.1,bug,flying,4,0
+416,Beehive Pokemon,,Vespiquen,0,bug,flying,4,0
+417,EleSquirrel Pokemon,,Pachirisu,50,electric,,4,0
+418,Sea Weasel Pokemon,,Buizel,50,water,,4,0
+419,Sea Weasel Pokemon,,Floatzel,50,water,,4,0
+420,Cherry Pokemon,,Cherubi,50,grass,,4,0
+421,Blossom Pokemon,,Cherrim,50,grass,,4,0
+422,Sea Slug Pokemon,,Shellos,50,water,,4,0
+423,Sea Slug Pokemon,,Gastrodon,50,water,ground,4,0
+424,Long Tail Pokemon,,Ambipom,50,normal,,4,0
+425,Balloon Pokemon,,Drifloon,50,ghost,flying,4,0
+426,Blimp Pokemon,,Drifblim,50,ghost,flying,4,0
+427,Rabbit Pokemon,,Buneary,50,normal,,4,0
+428,Rabbit Pokemon,,Lopunny,50,normal,,4,0
+429,Magical Pokemon,,Mismagius,50,ghost,,4,0
+430,Big Boss Pokemon,,Honchkrow,50,dark,flying,4,0
+431,Catty Pokemon,,Glameow,24.6,normal,,4,0
+432,Tiger Cat Pokemon,,Purugly,24.6,normal,,4,0
+433,Bell Pokemon,,Chingling,50,psychic,,4,0
+434,Skunk Pokemon,,Stunky,50,poison,dark,4,0
+435,Skunk Pokemon,,Skuntank,50,poison,dark,4,0
+436,Bronze Pokemon,,Bronzor,,steel,psychic,4,0
+437,Bronze Bell Pokemon,,Bronzong,,steel,psychic,4,0
+438,Bonsai Pokemon,,Bonsly,50,rock,,4,0
+439,Mime Pokemon,,Mime Jr.,50,psychic,fairy,4,0
+440,Playhouse Pokemon,,Happiny,0,normal,,4,0
+441,Music Note Pokemon,,Chatot,50,normal,flying,4,0
+442,Forbidden Pokemon,,Spiritomb,50,ghost,dark,4,0
+443,Land Shark Pokemon,,Gible,50,dragon,ground,4,0
+444,Cave Pokemon,,Gabite,50,dragon,ground,4,0
+445,Mach Pokemon,,Garchomp,50,dragon,ground,4,0
+446,Big Eater Pokemon,,Munchlax,88.1,normal,,4,0
+447,Emanation Pokemon,,Riolu,88.1,fighting,,4,0
+448,Aura Pokemon,,Lucario,88.1,fighting,steel,4,0
+449,Hippo Pokemon,,Hippopotas,50,ground,,4,0
+450,Heavyweight Pokemon,,Hippowdon,50,ground,,4,0
+451,Scorpion Pokemon,,Skorupi,50,poison,bug,4,0
+452,Ogre Scorp Pokemon,,Drapion,50,poison,dark,4,0
+453,Toxic Mouth Pokemon,,Croagunk,50,poison,fighting,4,0
+454,Toxic Mouth Pokemon,,Toxicroak,50,poison,fighting,4,0
+455,Bug Catcher Pokemon,,Carnivine,50,grass,,4,0
+456,Wing Fish Pokemon,,Finneon,50,water,,4,0
+457,Neon Pokemon,,Lumineon,50,water,,4,0
+458,Kite Pokemon,,Mantyke,50,water,flying,4,0
+459,Frosted Tree Pokemon,,Snover,50,grass,ice,4,0
+460,Frosted Tree Pokemon,,Abomasnow,50,grass,ice,4,0
+461,Sharp Claw Pokemon,,Weavile,50,dark,ice,4,0
+462,Magnet Area Pokemon,,Magnezone,,electric,steel,4,0
+463,Licking Pokemon,,Lickilicky,50,normal,,4,0
+464,Drill Pokemon,,Rhyperior,50,ground,rock,4,0
+465,Vine Pokemon,,Tangrowth,50,grass,,4,0
+466,Thunderbolt Pokemon,,Electivire,75.4,electric,,4,0
+467,Blast Pokemon,,Magmortar,75.4,fire,,4,0
+468,Jubilee Pokemon,,Togekiss,88.1,fairy,flying,4,0
+469,Ogre Darner Pokemon,,Yanmega,50,bug,flying,4,0
+470,Verdant Pokemon,,Leafeon,88.1,grass,,4,0
+471,Fresh Snow Pokemon,,Glaceon,88.1,ice,,4,0
+472,Fang Scorp Pokemon,,Gliscor,50,ground,flying,4,0
+473,Twin Tusk Pokemon,,Mamoswine,50,ice,ground,4,0
+474,Virtual Pokemon,,Porygon-Z,,normal,,4,0
+475,Blade Pokemon,,Gallade,100,psychic,fighting,4,0
+476,Compass Pokemon,,Probopass,50,rock,steel,4,0
+477,Gripper Pokemon,,Dusknoir,50,ghost,,4,0
+478,Snow Land Pokemon,,Froslass,0,ice,ghost,4,0
+479,Plasma Pokemon,,Rotom,,electric,ghost,4,0
+480,Knowledge Pokemon,,Uxie,,psychic,,4,1
+481,Emotion Pokemon,,Mesprit,,psychic,,4,1
+482,Willpower Pokemon,,Azelf,,psychic,,4,1
+483,Temporal Pokemon,,Dialga,,steel,dragon,4,1
+484,Spatial Pokemon,,Palkia,,water,dragon,4,1
+485,Lava Dome Pokemon,,Heatran,50,fire,steel,4,1
+486,Colossal Pokemon,,Regigigas,,normal,,4,1
+487,Renegade Pokemon,,Giratina,,ghost,dragon,4,1
+488,Lunar Pokemon,,Cresselia,0,psychic,,4,1
+489,Sea Drifter Pokemon,,Phione,,water,,4,0
+490,Seafaring Pokemon,,Manaphy,,water,,4,1
+491,Pitch-Black Pokemon,,Darkrai,,dark,,4,1
+492,Gratitude Pokemon,,Shaymin,,grass,grass,4,1
+493,Alpha Pokemon,,Arceus,,normal,,4,1
+494,Victory Pokemon,,Victini,,psychic,fire,5,1
+495,Grass Snake Pokemon,,Snivy,88.1,grass,,5,0
+496,Grass Snake Pokemon,,Servine,88.1,grass,,5,0
+497,Regal Pokemon,,Serperior,88.1,grass,,5,0
+498,Fire Pig Pokemon,,Tepig,88.1,fire,,5,0
+499,Fire Pig Pokemon,,Pignite,88.1,fire,fighting,5,0
+500,Mega Fire Pig Pokemon,,Emboar,88.1,fire,fighting,5,0
+501,Sea Otter Pokemon,,Oshawott,88.1,water,,5,0
+502,Discipline Pokemon,,Dewott,88.1,water,,5,0
+503,Formidable Pokemon,,Samurott,88.1,water,,5,0
+504,Scout Pokemon,,Patrat,50,normal,,5,0
+505,Lookout Pokemon,,Watchog,50,normal,,5,0
+506,Puppy Pokemon,,Lillipup,50,normal,,5,0
+507,Loyal Dog Pokemon,,Herdier,50,normal,,5,0
+508,Big-Hearted Pokemon,,Stoutland,50,normal,,5,0
+509,Devious Pokemon,,Purrloin,50,dark,,5,0
+510,Cruel Pokemon,,Liepard,50,dark,,5,0
+511,Grass Monkey Pokemon,,Pansage,88.1,grass,,5,0
+512,Thorn Monkey Pokemon,,Simisage,88.1,grass,,5,0
+513,High Temp Pokemon,,Pansear,88.1,fire,,5,0
+514,Ember Pokemon,,Simisear,88.1,fire,,5,0
+515,Spray Pokemon,,Panpour,88.1,water,,5,0
+516,Geyser Pokemon,,Simipour,88.1,water,,5,0
+517,Dream Eater Pokemon,,Munna,50,psychic,,5,0
+518,Drowsing Pokemon,,Musharna,50,psychic,,5,0
+519,Tiny Pigeon Pokemon,,Pidove,50,normal,flying,5,0
+520,Wild Pigeon Pokemon,,Tranquill,50,normal,flying,5,0
+521,Proud Pokemon,,Unfezant,50,normal,flying,5,0
+522,Electrified Pokemon,,Blitzle,50,electric,,5,0
+523,Thunderbolt Pokemon,,Zebstrika,50,electric,,5,0
+524,Mantle Pokemon,,Roggenrola,50,rock,,5,0
+525,Ore Pokemon,,Boldore,50,rock,,5,0
+526,Compressed Pokemon,,Gigalith,50,rock,,5,0
+527,Bat Pokemon,,Woobat,50,psychic,flying,5,0
+528,Courting Pokemon,,Swoobat,50,psychic,flying,5,0
+529,Mole Pokemon,,Drilbur,50,ground,,5,0
+530,Subterrene Pokemon,,Excadrill,50,ground,steel,5,0
+531,Hearing Pokemon,,Audino,50,normal,,5,0
+532,Muscular Pokemon,,Timburr,75.4,fighting,,5,0
+533,Muscular Pokemon,,Gurdurr,75.4,fighting,,5,0
+534,Muscular Pokemon,,Conkeldurr,75.4,fighting,,5,0
+535,Tadpole Pokemon,,Tympole,50,water,,5,0
+536,Vibration Pokemon,,Palpitoad,50,water,ground,5,0
+537,Vibration Pokemon,,Seismitoad,50,water,ground,5,0
+538,Judo Pokemon,,Throh,100,fighting,,5,0
+539,Karate Pokemon,,Sawk,100,fighting,,5,0
+540,Sewing Pokemon,,Sewaddle,50,bug,grass,5,0
+541,Leaf-Wrapped Pokemon,,Swadloon,50,bug,grass,5,0
+542,Nurturing Pokemon,,Leavanny,50,bug,grass,5,0
+543,Centipede Pokemon,,Venipede,50,bug,poison,5,0
+544,Curlipede Pokemon,,Whirlipede,50,bug,poison,5,0
+545,Megapede Pokemon,,Scolipede,50,bug,poison,5,0
+546,Cotton Puff Pokemon,,Cottonee,50,grass,fairy,5,0
+547,Windveiled Pokemon,,Whimsicott,50,grass,fairy,5,0
+548,Bulb Pokemon,,Petilil,0,grass,,5,0
+549,Flowering Pokemon,,Lilligant,0,grass,,5,0
+550,Hostile Pokemon,,Basculin,50,water,,5,0
+551,Desert Croc Pokemon,,Sandile,50,ground,dark,5,0
+552,Desert Croc Pokemon,,Krokorok,50,ground,dark,5,0
+553,Intimidation Pokemon,,Krookodile,50,ground,dark,5,0
+554,Zen Charm Pokemon,,Darumaka,50,fire,,5,0
+555,Blazing Pokemon,,Darmanitan,50,fire,fire,5,0
+556,Cactus Pokemon,,Maractus,50,grass,,5,0
+557,Rock Inn Pokemon,,Dwebble,50,bug,rock,5,0
+558,Stone Home Pokemon,,Crustle,50,bug,rock,5,0
+559,Shedding Pokemon,,Scraggy,50,dark,fighting,5,0
+560,Hoodlum Pokemon,,Scrafty,50,dark,fighting,5,0
+561,Avianoid Pokemon,,Sigilyph,50,psychic,flying,5,0
+562,Spirit Pokemon,,Yamask,50,ghost,,5,0
+563,Coffin Pokemon,,Cofagrigus,50,ghost,,5,0
+564,Prototurtle Pokemon,,Tirtouga,88.1,water,rock,5,0
+565,Prototurtle Pokemon,,Carracosta,88.1,water,rock,5,0
+566,First Bird Pokemon,,Archen,88.1,rock,flying,5,0
+567,First Bird Pokemon,,Archeops,88.1,rock,flying,5,0
+568,Trash Bag Pokemon,,Trubbish,50,poison,,5,0
+569,Trash Heap Pokemon,,Garbodor,50,poison,,5,0
+570,Tricky Fox Pokemon,,Zorua,88.1,dark,,5,0
+571,Illusion Fox Pokemon,,Zoroark,88.1,dark,,5,0
+572,Chinchilla Pokemon,,Minccino,24.6,normal,,5,0
+573,Scarf Pokemon,,Cinccino,24.6,normal,,5,0
+574,Fixation Pokemon,,Gothita,24.6,psychic,,5,0
+575,Manipulate Pokemon,,Gothorita,24.6,psychic,,5,0
+576,Astral Body Pokemon,,Gothitelle,24.6,psychic,,5,0
+577,Cell Pokemon,,Solosis,50,psychic,,5,0
+578,Mitosis Pokemon,,Duosion,50,psychic,,5,0
+579,Multiplying Pokemon,,Reuniclus,50,psychic,,5,0
+580,Water Bird Pokemon,,Ducklett,50,water,flying,5,0
+581,White Bird Pokemon,,Swanna,50,water,flying,5,0
+582,Fresh Snow Pokemon,,Vanillite,50,ice,,5,0
+583,Icy Snow Pokemon,,Vanillish,50,ice,,5,0
+584,Snowstorm Pokemon,,Vanilluxe,50,ice,,5,0
+585,Season Pokemon,,Deerling,50,normal,grass,5,0
+586,Season Pokemon,,Sawsbuck,50,normal,grass,5,0
+587,Sky Squirrel Pokemon,,Emolga,50,electric,flying,5,0
+588,Clamping Pokemon,,Karrablast,50,bug,,5,0
+589,Cavalry Pokemon,,Escavalier,50,bug,steel,5,0
+590,Mushroom Pokemon,,Foongus,50,grass,poison,5,0
+591,Mushroom Pokemon,,Amoonguss,50,grass,poison,5,0
+592,Floating Pokemon,,Frillish,50,water,ghost,5,0
+593,Floating Pokemon,,Jellicent,50,water,ghost,5,0
+594,Caring Pokemon,,Alomomola,50,water,,5,0
+595,Attaching Pokemon,,Joltik,50,bug,electric,5,0
+596,EleSpider Pokemon,,Galvantula,50,bug,electric,5,0
+597,Thorn Seed Pokemon,,Ferroseed,50,grass,steel,5,0
+598,Thorn Pod Pokemon,,Ferrothorn,50,grass,steel,5,0
+599,Gear Pokemon,,Klink,,steel,,5,0
+600,Gear Pokemon,,Klang,,steel,,5,0
+601,Gear Pokemon,,Klinklang,,steel,,5,0
+602,EleFish Pokemon,,Tynamo,50,electric,,5,0
+603,EleFish Pokemon,,Eelektrik,50,electric,,5,0
+604,EleFish Pokemon,,Eelektross,50,electric,,5,0
+605,Cerebral Pokemon,,Elgyem,50,psychic,,5,0
+606,Cerebral Pokemon,,Beheeyem,50,psychic,,5,0
+607,Candle Pokemon,,Litwick,50,ghost,fire,5,0
+608,Lamp Pokemon,,Lampent,50,ghost,fire,5,0
+609,Luring Pokemon,,Chandelure,50,ghost,fire,5,0
+610,Tusk Pokemon,,Axew,50,dragon,,5,0
+611,Axe Jaw Pokemon,,Fraxure,50,dragon,,5,0
+612,Axe Jaw Pokemon,,Haxorus,50,dragon,,5,0
+613,Chill Pokemon,,Cubchoo,50,ice,,5,0
+614,Freezing Pokemon,,Beartic,50,ice,,5,0
+615,Crystallizing Pokemon,,Cryogonal,,ice,,5,0
+616,Snail Pokemon,,Shelmet,50,bug,,5,0
+617,Shell Out Pokemon,,Accelgor,50,bug,,5,0
+618,Trap Pokemon,,Stunfisk,50,ground,electric,5,0
+619,Martial Arts Pokemon,,Mienfoo,50,fighting,,5,0
+620,Martial Arts Pokemon,,Mienshao,50,fighting,,5,0
+621,Cave Pokemon,,Druddigon,50,dragon,,5,0
+622,Automaton Pokemon,,Golett,,ground,ghost,5,0
+623,Automaton Pokemon,,Golurk,,ground,ghost,5,0
+624,Sharp Blade Pokemon,,Pawniard,50,dark,steel,5,0
+625,Sword Blade Pokemon,,Bisharp,50,dark,steel,5,0
+626,Bash Buffalo Pokemon,,Bouffalant,50,normal,,5,0
+627,Eaglet Pokemon,,Rufflet,100,normal,flying,5,0
+628,Valiant Pokemon,,Braviary,100,normal,flying,5,0
+629,Diapered Pokemon,,Vullaby,0,dark,flying,5,0
+630,Bone Vulture Pokemon,,Mandibuzz,0,dark,flying,5,0
+631,Anteater Pokemon,,Heatmor,50,fire,,5,0
+632,Iron Ant Pokemon,,Durant,50,bug,steel,5,0
+633,Irate Pokemon,,Deino,50,dark,dragon,5,0
+634,Hostile Pokemon,,Zweilous,50,dark,dragon,5,0
+635,Brutal Pokemon,,Hydreigon,50,dark,dragon,5,0
+636,Torch Pokemon,,Larvesta,50,bug,fire,5,0
+637,Sun Pokemon,,Volcarona,50,bug,fire,5,0
+638,Iron Will Pokemon,,Cobalion,,steel,fighting,5,1
+639,Cavern Pokemon,,Terrakion,,rock,fighting,5,1
+640,Grassland Pokemon,,Virizion,,grass,fighting,5,1
+641,Cyclone Pokemon,,Tornadus,100,flying,,5,1
+642,Bolt Strike Pokemon,,Thundurus,100,electric,flying,5,1
+643,Vast White Pokemon,,Reshiram,,dragon,fire,5,1
+644,Deep Black Pokemon,,Zekrom,,dragon,electric,5,1
+645,Abundance Pokemon,,Landorus,100,ground,flying,5,1
+646,Boundary Pokemon,,Kyurem,,dragon,ice,5,1
+647,Colt Pokemon,,Keldeo,,water,fighting,5,1
+648,Melody Pokemon,,Meloetta,,normal,psychic,5,1
+649,Paleozoic Pokemon,,Genesect,,bug,steel,5,1
+650,Spiky Nut Pokemon,,Chespin,88.1,grass,,6,0
+651,Spiny Armor Pokemon,,Quilladin,88.1,grass,,6,0
+652,Spiny Armor Pokemon,,Chesnaught,88.1,grass,fighting,6,0
+653,Fox Pokemon,,Fennekin,88.1,fire,,6,0
+654,Fox Pokemon,,Braixen,88.1,fire,,6,0
+655,Fox Pokemon,,Delphox,88.1,fire,psychic,6,0
+656,Bubble Frog Pokemon,,Froakie,88.1,water,,6,0
+657,Bubble Frog Pokemon,,Frogadier,88.1,water,,6,0
+658,Ninja Pokemon,,Greninja,88.1,water,dark,6,0
+659,Digging Pokemon,,Bunnelby,50,normal,,6,0
+660,Digging Pokemon,,Diggersby,50,normal,ground,6,0
+661,Tiny Robin Pokemon,,Fletchling,50,normal,flying,6,0
+662,Ember Pokemon,,Fletchinder,50,fire,flying,6,0
+663,Scorching Pokemon,,Talonflame,50,fire,flying,6,0
+664,Scatterdust Pokemon,,Scatterbug,50,bug,,6,0
+665,Scatterdust Pokemon,,Spewpa,50,bug,,6,0
+666,Scale Pokemon,,Vivillon,50,bug,flying,6,0
+667,Lion Cub Pokemon,,Litleo,11.2,fire,normal,6,0
+668,Royal Pokemon,,Pyroar,11.2,fire,normal,6,0
+669,Single Bloom Pokemon,,FlabÃ©bÃ©,0,fairy,,6,0
+670,Fairy Pokemon,,Floette,0,fairy,,6,0
+671,Garden Pokemon,,Florges,0,fairy,,6,0
+672,Mount Pokemon,,Skiddo,50,grass,,6,0
+673,Mount Pokemon,,Gogoat,50,grass,,6,0
+674,Playful Pokemon,,Pancham,50,fighting,,6,0
+675,Daunting Pokemon,,Pangoro,50,fighting,dark,6,0
+676,Poodle Pokemon,,Furfrou,50,normal,,6,0
+677,Restraint Pokemon,,Espurr,50,psychic,,6,0
+678,Constraint Pokemon,,Meowstic,50,psychic,,6,0
+679,Sword Pokemon,,Honedge,50,steel,ghost,6,0
+680,Sword Pokemon,,Doublade,50,steel,ghost,6,0
+681,Royal Sword Pokemon,,Aegislash,50,steel,ghost,6,0
+682,Perfume Pokemon,,Spritzee,50,fairy,,6,0
+683,Fragrance Pokemon,,Aromatisse,50,fairy,,6,0
+684,Cotton Candy Pokemon,,Swirlix,50,fairy,,6,0
+685,Meringue Pokemon,,Slurpuff,50,fairy,,6,0
+686,Revolving Pokemon,,Inkay,50,dark,psychic,6,0
+687,Overturning Pokemon,,Malamar,50,dark,psychic,6,0
+688,Two-Handed Pokemon,,Binacle,50,rock,water,6,0
+689,Collective Pokemon,,Barbaracle,50,rock,water,6,0
+690,Mock Kelp Pokemon,,Skrelp,50,poison,water,6,0
+691,Mock Kelp Pokemon,,Dragalge,50,poison,dragon,6,0
+692,Water Gun Pokemon,,Clauncher,50,water,,6,0
+693,Howitzer Pokemon,,Clawitzer,50,water,,6,0
+694,Generator Pokemon,,Helioptile,50,electric,normal,6,0
+695,Generator Pokemon,,Heliolisk,50,electric,normal,6,0
+696,Royal Heir Pokemon,,Tyrunt,88.1,rock,dragon,6,0
+697,Despot Pokemon,,Tyrantrum,88.1,rock,dragon,6,0
+698,Tundra Pokemon,,Amaura,88.1,rock,ice,6,0
+699,Tundra Pokemon,,Aurorus,88.1,rock,ice,6,0
+700,Intertwining Pokemon,,Sylveon,88.1,fairy,,6,0
+701,Wrestling Pokemon,,Hawlucha,50,fighting,flying,6,0
+702,Antenna Pokemon,,Dedenne,50,electric,fairy,6,0
+703,Jewel Pokemon,,Carbink,,rock,fairy,6,0
+704,Soft Tissue Pokemon,,Goomy,50,dragon,,6,0
+705,Soft Tissue Pokemon,,Sliggoo,50,dragon,,6,0
+706,Dragon Pokemon,,Goodra,50,dragon,,6,0
+707,Key Ring Pokemon,,Klefki,50,steel,fairy,6,0
+708,Stump Pokemon,,Phantump,50,ghost,grass,6,0
+709,Elder Tree Pokemon,,Trevenant,50,ghost,grass,6,0
+710,Pumpkin Pokemon,,Pumpkaboo,50,ghost,grass,6,0
+711,Pumpkin Pokemon,,Gourgeist,50,ghost,grass,6,0
+712,Ice Chunk Pokemon,,Bergmite,50,ice,,6,0
+713,Iceberg Pokemon,,Avalugg,50,ice,,6,0
+714,Sound Wave Pokemon,,Noibat,50,flying,dragon,6,0
+715,Sound Wave Pokemon,,Noivern,50,flying,dragon,6,0
+716,Life Pokemon,,Xerneas,,fairy,,6,1
+717,Destruction Pokemon,,Yveltal,,dark,flying,6,1
+718,Order Pokemon,,Zygarde,,dragon,ground,6,1
+719,Jewel Pokemon,,Diancie,,rock,fairy,6,1
+720,Mischief Pokemon (Confined)Djinn Pokemonn (Unbound),,Hoopa,,psychic,ghost,6,1
+721,Steam Pokemon,,Volcanion,,fire,water,6,1
+722,Grass Quill Pokemon,,Rowlet,88.1,grass,flying,7,0
+723,Blade Quill Pokemon,,Dartrix,88.1,grass,flying,7,0
+724,Arrow Quill Pokemon,,Decidueye,88.1,grass,ghost,7,0
+725,Fire Cat Pokemon,,Litten,88.1,fire,,7,0
+726,Fire Cat Pokemon,,Torracat,88.1,fire,,7,0
+727,Heel Pokemon,,Incineroar,88.1,fire,dark,7,0
+728,Sea Lion Pokemon,,Popplio,88.1,water,,7,0
+729,Pop Star Pokemon,,Brionne,88.1,water,,7,0
+730,Soloist Pokemon,,Primarina,88.1,water,fairy,7,0
+731,Woodpecker Pokemon,,Pikipek,50,normal,flying,7,0
+732,Bugle Beak Pokemon,,Trumbeak,50,normal,flying,7,0
+733,Cannon Pokemon,,Toucannon,50,normal,flying,7,0
+734,Loitering Pokemon,,Yungoos,50,normal,,7,0
+735,Stakeout Pokemon,,Gumshoos,50,normal,,7,0
+736,Larva Pokemon,,Grubbin,50,bug,,7,0
+737,Battery Pokemon,,Charjabug,50,bug,electric,7,0
+738,Stag Beetle Pokemon,,Vikavolt,50,bug,electric,7,0
+739,Boxing Pokemon,,Crabrawler,50,fighting,,7,0
+740,Woolly Crab Pokemon,,Crabominable,50,fighting,ice,7,0
+741,Dancing Pokemon,,Oricorio,24.6,fire,flying,7,0
+742,Bee Fly Pokemon,,Cutiefly,50,bug,fairy,7,0
+743,Bee Fly Pokemon,,Ribombee,50,bug,fairy,7,0
+744,Puppy Pokemon,,Rockruff,50,rock,,7,0
+745,Wolf Pokemon,,Lycanroc,50,rock,,7,0
+746,Small Fry Pokemon,,Wishiwashi,50,water,,7,0
+747,Brutal Star Pokemon,,Mareanie,50,poison,water,7,0
+748,Brutal Star Pokemon,,Toxapex,50,poison,water,7,0
+749,Donkey Pokemon,,Mudbray,50,ground,,7,0
+750,Draft Horse Pokemon,,Mudsdale,50,ground,,7,0
+751,Water Bubble Pokemon,,Dewpider,50,water,bug,7,0
+752,Water Bubble Pokemon,,Araquanid,50,water,bug,7,0
+753,Sickle Grass Pokemon,,Fomantis,50,grass,,7,0
+754,Bloom Sickle Pokemon,,Lurantis,50,grass,,7,0
+755,Illuminating Pokemon,,Morelull,50,grass,fairy,7,0
+756,Illuminating Pokemon,,Shiinotic,50,grass,fairy,7,0
+757,Toxic Lizard Pokemon,,Salandit,88.1,poison,fire,7,0
+758,Toxic Lizard Pokemon,,Salazzle,0,poison,fire,7,0
+759,Flailing Pokemon,,Stufful,50,normal,fighting,7,0
+760,Strong Arm Pokemon,,Bewear,50,normal,fighting,7,0
+761,Fruit Pokemon,,Bounsweet,0,grass,,7,0
+762,Fruit Pokemon,,Steenee,0,grass,,7,0
+763,Fruit Pokemon,,Tsareena,0,grass,,7,0
+764,Posy Picker Pokemon,,Comfey,24.6,fairy,,7,0
+765,Sage Pokemon,,Oranguru,50,normal,psychic,7,0
+766,Teamwork Pokemon,,Passimian,50,fighting,,7,0
+767,Turn Tail Pokemon,,Wimpod,50,bug,water,7,0
+768,Hard Scale Pokemon,,Golisopod,50,bug,water,7,0
+769,Sand Heap Pokemon,,Sandygast,50,ghost,ground,7,0
+770,Sand Castle Pokemon,,Palossand,50,ghost,ground,7,0
+771,Sea Cucumber Pokemon,,Pyukumuku,50,water,,7,0
+772,Synthetic Pokemon,,Type: Null,,normal,,7,0
+773,Synthetic Pokemon,,Silvally,,normal,,7,0
+774,Meteor Pokemon,,Minior,,rock,flying,7,0
+775,Drowsing Pokemon,,Komala,50,normal,,7,0
+776,Blast Turtle Pokemon,,Turtonator,50,fire,dragon,7,0
+777,Roly-Poly Pokemon,,Togedemaru,50,electric,steel,7,0
+778,Disguise Pokemon,,Mimikyu,50,ghost,fairy,7,0
+779,Gnash Teeth Pokemon,,Bruxish,50,water,psychic,7,0
+780,Placid Pokemon,,Drampa,50,normal,dragon,7,0
+781,Sea Creeper Pokemon,,Dhelmise,,ghost,grass,7,0
+782,Scaly Pokemon,,Jangmo-o,50,dragon,,7,0
+783,Scaly Pokemon,,Hakamo-o,50,dragon,fighting,7,0
+784,Scaly Pokemon,,Kommo-o,50,dragon,fighting,7,0
+785,Land Spirit Pokemon,,Tapu Koko,,electric,fairy,7,1
+786,Land Spirit Pokemon,,Tapu Lele,,psychic,fairy,7,1
+787,Land Spirit Pokemon,,Tapu Bulu,,grass,fairy,7,1
+788,Land Spirit Pokemon,,Tapu Fini,,water,fairy,7,1
+789,Nebula Pokemon,,Cosmog,,psychic,,7,1
+790,Protostar Pokemon,,Cosmoem,,psychic,,7,1
+791,Sunne Pokemon,,Solgaleo,,psychic,steel,7,1
+792,Moone Pokemon,,Lunala,,psychic,ghost,7,1
+793,Parasite Pokemon,,Nihilego,,rock,poison,7,1
+794,Swollen Pokemon,,Buzzwole,,bug,fighting,7,1
+795,Lissome Pokemon,,Pheromosa,,bug,fighting,7,1
+796,Glowing Pokemon,,Xurkitree,,electric,,7,1
+797,Launch Pokemon,,Celesteela,,steel,flying,7,1
+798,Drawn Sword Pokemon,,Kartana,,grass,steel,7,1
+799,Junkivore Pokemon,,Guzzlord,,dark,dragon,7,1
+800,Prism Pokemon,,Necrozma,,psychic,,7,1
+801,Artificial Pokemon,,Magearna,,steel,fairy,7,1
