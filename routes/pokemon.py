@@ -10,6 +10,11 @@ import csv
 router = APIRouter(prefix='/pokemon', tags=['pokemon'])
 
 @router.get('/')
+def import_all_pokemon(db:Session = Depends(get_db)):
+    pokemons = db.query(PokemonTableModel).options(subqueryload(PokemonTableModel.stats)).all()
+    return pokemons
+
+@router.get('/page/')
 def import_all_pokemon(page:int = 1, db:Session = Depends(get_db)):
     pokemons = db.query(PokemonTableModel).options(subqueryload(PokemonTableModel.stats)).limit(20).offset((page-1)*20).all()
     return pokemons
