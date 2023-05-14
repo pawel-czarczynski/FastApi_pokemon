@@ -1,6 +1,6 @@
 from fastapi import Depends, APIRouter, File, UploadFile
 from typing import Annotated
-from schemas.pokemon import Pokemon
+from schemas.pokemon import Pokemon, Stats
 from database.connection import  get_db
 from database.models import Pokemon as PokemonTableModel
 from database.models import Stats as PokemonStatsModel
@@ -10,9 +10,9 @@ import csv
 router = APIRouter(prefix='/pokemon', tags=['pokemon'])
 
 @router.get('/')
-def import_all_pokemon(db:Session = Depends(get_db)):
-    item = db.query(PokemonTableModel).all()
-    return item
+def import_all_pokemon(page:int = 1, db:Session = Depends(get_db)):
+    pokemons = db.query(PokemonTableModel).options(subqueryload(PokemonTableModel.stats)).limit(20).offset((page-1)*20).all()
+    return pokemons
 
 
 @router.get('/id/{pokemon_id}')
